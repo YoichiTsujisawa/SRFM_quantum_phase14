@@ -1,5 +1,4 @@
-.. image:: https://zenodo.org/badge/DOI/10.5281/zenodo.20081442.svg 
-  :target: https://doi.org/10.5281/zenodo.20081442
+10.5281/zenodo.20081442
 
 # SRFM Quantum Phase14
 
