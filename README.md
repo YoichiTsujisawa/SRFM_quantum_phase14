@@ -1,3 +1,5 @@
+https://doi.org/10.5281/zenodo.20081442
+
 # SRFM Quantum Phase14
 
 Adaptive Basin Geometry and Persistent Structural Memory
