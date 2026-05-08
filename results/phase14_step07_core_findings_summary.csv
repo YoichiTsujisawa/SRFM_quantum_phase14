@@ -1,0 +1,11 @@
+id,finding,metric,value,interpretation
+F1,Phase13 memory classes project into a structured Phase14 basin-coordinate landscape.,topology_only_basin + stable_topology_only_basin,311.0,Topology-only memory remains a distinct basin class in H_phi vs H_spectral space.
+F2,Coupled transport-topology memory remains the dominant basin class.,coupled_memory_basin + stable_coupled_memory_basin,619.0,Transport and topology memory frequently coexist before relaxation separation.
+F3,Basin entropy is high across perturbation space.,mean_basin_entropy,1.1626363674414335,Memory outcomes are multi-state and competitive rather than deterministic.
+F4,Maximum basin entropy approaches the four-state entropy limit.,max_basin_entropy,1.3740456536872214,Some perturbation regions exhibit nearly maximal competition among memory states.
+F5,Topology memory mostly survives as full or partial retention.,global_survival_mass,0.6744791666666667,Survival plus partial topology retention accounts for most perturbation outcomes.
+F6,Direct memory erasure remains a minority outcome.,global_erasure_mass,0.1301041666666666,Perturbation usually redistributes memory rather than directly annihilating it.
+F7,Transition entropy remains high in the global transition matrix.,global_transition_entropy_norm,0.9475267266894628,Memory transitions form a probabilistic basin network.
+F8,No collapse-boundary regime was detected in the perturbation grid.,collapse_boundary_count,0.0,Memory degradation is better described as basin erosion than abrupt collapse.
+F9,Broad transition boundaries occupy a large fraction of perturbation space.,broad_transition_boundary_count,32.0,Memory basin boundaries are thick and metastable rather than sharp.
+F10,Erasure remains bounded even at the strongest tested perturbation conditions.,max_erasure_mass,0.22,Even high perturbation does not make erasure the dominant outcome.

@@ -1,0 +1,36 @@
+cff-version: 1.2.0
+
+title: "SRFM Quantum Phase14: Adaptive Basin Geometry and Persistent Structural Memory"
+
+message: "If you use this work, please cite it using the metadata below."
+
+type: software
+
+authors:
+  - family-names: "Tsujisawa"
+    given-names: "Yoichi"
+
+abstract: >
+  SRFM Quantum Phase14 investigates adaptive basin geometry,
+  metastable structural memory, perturbation-driven erosion,
+  and probabilistic memory-state redistribution in adaptive
+  coupling-topology systems.
+
+keywords:
+  - SRFM
+  - adaptive memory
+  - basin geometry
+  - metastability
+  - hysteresis
+  - topology memory
+  - adaptive transport
+  - structural memory
+  - nonequilibrium systems
+
+license: MIT
+
+repository-code: "https://github.com/YoichiTsujisawa/SRFM_quantum_phase14"
+
+version: "1.0-phase14"
+
+date-released: 2026-05-08

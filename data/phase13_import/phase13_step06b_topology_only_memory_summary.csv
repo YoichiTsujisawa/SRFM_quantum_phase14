@@ -1,0 +1,15 @@
+metric,value
+total_hysteresis_comparisons,1428.0
+topology_only_memory_soft_count,338.0
+topology_only_memory_soft_ratio,0.23669467787114845
+topology_only_memory_strict_count,307.0
+topology_only_memory_strict_ratio,0.21498599439775912
+transport_memory_dominant_count,82.0
+transport_memory_dominant_ratio,0.05742296918767507
+coupled_transport_topology_memory_count,619.0
+coupled_transport_topology_memory_ratio,0.4334733893557423
+low_memory_count,16.0
+low_memory_ratio,0.011204481792717087
+mean_H_phi_topology_only_soft,0.004090050478261361
+mean_H_spectral_radius_topology_only_soft,0.8388313412128274
+mean_memory_strength_topology_only_soft,0.3059010412926025

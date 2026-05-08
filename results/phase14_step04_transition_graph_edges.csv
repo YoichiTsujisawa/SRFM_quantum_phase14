@@ -1,0 +1,5 @@
+source_state,target_state,probability,count,edge_type
+initial_topology_memory,topology_only_memory_survived,0.37375,3588,survival
+initial_topology_memory,partial_topology_memory,0.30072916666666666,2887,partial_retention
+initial_topology_memory,mixed_or_weak_memory,0.19541666666666666,1876,weakening
+initial_topology_memory,memory_erased,0.13010416666666666,1249,erasure

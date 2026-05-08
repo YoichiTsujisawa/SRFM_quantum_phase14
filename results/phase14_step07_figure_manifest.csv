@@ -1,0 +1,8 @@
+figure,role
+figure1_basin_coordinate_map.png,Projects Phase13 memory classes into Phase14 basin-coordinate space using H_phi and H_spectral.
+figure2_basin_entropy_heatmap.png,Shows where multiple memory states compete under state/coupling perturbations.
+figure3_transition_matrix_edges.png,"Summarizes global transition probabilities from initial topology memory to survival, partial retention, weakening, and erasure."
+figure4_boundary_regime_map.png,"Maps deep survival, survival-dominant, and broad transition boundary regimes."
+figure5_survival_erasure_vs_noise.png,Tests whether memory loss behaves like abrupt collapse or gradual erosion with perturbation strength.
+figure6_memory_state_redistribution_by_coupling_noise.png,Shows redistribution among memory states as coupling perturbation increases.
+figure7_boundary_thickness_heatmap.png,Visualizes broad basin-boundary thickness rather than a sharp collapse line.

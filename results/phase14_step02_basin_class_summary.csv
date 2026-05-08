@@ -1,0 +1,8 @@
+phase14_basin_class,count,ratio
+coupled_memory_basin,599,0.41946778711484595
+transition_basin,400,0.2801120448179272
+topology_only_basin,309,0.21638655462184875
+transport_dominant_basin,82,0.05742296918767507
+stable_coupled_memory_basin,20,0.014005602240896359
+erased_basin,16,0.011204481792717087
+stable_topology_only_basin,2,0.0014005602240896359

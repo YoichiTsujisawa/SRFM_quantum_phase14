@@ -1,0 +1,11 @@
+finding_id,finding,primary_metric,value,interpretation
+F1,Tanh-bounded adaptive transport exhibits robust hysteresis-like memory.,hysteresis_detected_ratio,0.9733893557422963,Path-dependent adaptive transport remains after replacing hard clipping with smooth tanh bounds.
+F2,Topology-only memory forms a distinct memory class.,topology_only_memory_soft_ratio,0.2366946778711484,Transport output can converge while coupling topology retains history.
+F3,Strict topology-only memory remains frequent.,topology_only_memory_strict_ratio,0.2149859943977591,The topology-only memory result is not only a loose-threshold artifact.
+F4,Coupled transport-topology memory is the dominant memory class.,coupled_transport_topology_memory_ratio,0.4334733893557423,Many cases retain both observable transport memory and structural topology memory.
+F5,Persistent topology-only memory survives lifetime testing.,persistent_topology_only_memory_count,30.0,Selected topology-only cases preserve structural memory after transport-output convergence.
+F6,Spectral topology memory remains nearly unchanged during lifetime hold.,mean_spectral_memory_retention_ratio,0.999996209499444,Relative structural memory persists even while absolute spectral strength relaxes.
+F7,Memory is perturbation-robust but degradable.,mean_survival_probability,0.6744791666666666,"Topology memory is basin-supported, not merely frozen or perfectly invariant."
+F8,Pure topology-only survival persists under perturbation in a substantial subset.,mean_topology_only_survival_probability,0.37375,The topology-only memory phase is robust under state and coupling perturbations.
+F9,Memory erasure exists as a competing basin outcome.,mean_erased_probability,0.13010416666666663,"Perturbations can erase memory, indicating basin erosion rather than absolute freezing."
+F10,Memory retention remains partially preserved across perturbation space.,mean_memory_retention_ratio,0.4693898826520084,The robustness landscape supports graded memory survival.

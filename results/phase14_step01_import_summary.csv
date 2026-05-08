@@ -1,0 +1,2 @@
+phase,step,purpose,hysteresis_rows,topology_zone_rows,classified_points_rows,lifetime_summary_rows,robustness_trials_rows,robustness_summary_rows,phase_transition_rows,core_findings_rows,output_rows,case_key_overlap_with_robustness_summary,merge_status,topology_only_basin_count,coupled_memory_basin_count,transport_dominant_basin_count,erased_basin_count,transition_basin_count,unclassified_count
+Phase14,Step01,Import Phase13 memory landscape for adaptive basin geometry analysis,1428,338,1428,30,9600,64,232,10,1428,64,merged_by_phase14_case_key,311,619,82,16,400,0
